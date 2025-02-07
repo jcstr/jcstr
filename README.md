@@ -8,7 +8,7 @@ My interests are high-scalable infrastructure, web development, and Linux.. I en
 
 - 🌱 Currently learning: **Python, Go, Artificial Intelligence**
 - 🔭 Looking to collaborate on: **Open Source projects that involves DevOps tools**
-- 📫 Reach me at: **jesuscastro@pm.me**
+- 📫 Reach me at: **[jcstr.dev](https://jcstr.dev)**
 
 ## 🤝 Connect With Me
 
