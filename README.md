@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jesús Castro 
+# Hi there! 👋 I'm Jesús
 
 ## 🚀 About Me
 
@@ -9,6 +9,13 @@ My interests are high-scalable infrastructure, web development, and Linux.. I en
 - 🌱 Currently learning: **Python, Go, Artificial Intelligence**
 - 🔭 Looking to collaborate on: **Open Source projects that involves DevOps tools**
 - 📫 Reach me at: **[jcstr.dev](https://jcstr.dev)**
+
+## Community 🤝
+
+Founding member of:
+- [Linuxeros Zapopan](https://linktr.ee/lnxzpn) 🐧
+- [Tech Talks](https://github.com/techntalks) 💬
+- [Arch Linux Mexico](https://github.com/archlinuxmx) 🇲🇽
 
 ## 🤝 Connect With Me
 
