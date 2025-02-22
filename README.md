@@ -1,5 +1,8 @@
 # Hi there! I'm Jesús 🤘
 
+[![image](https://i.imgur.com/Bp9t2qk.jpeg)](https://jcstr.dev)
+
+
 ## About Me ⭐
 
 I'm a software engineer and passionate about open source.
