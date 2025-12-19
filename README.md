@@ -1,6 +1,6 @@
 # Hi there! I'm Jesús 🤘
 
-[![image](https://i.imgur.com/DaavZVI.png)](https://jcstr.dev)
+[![image](https://i.imgur.com/Hw6O62s.jpeg)](https://jcstr.dev)
 
 
 ## About Me ⭐
