@@ -15,6 +15,10 @@ My interests are high-scalable infrastructure, web development, Linux, and Artif
 - 🔭 Looking to collaborate on: **Open Source projects that involves DevOps tools**
 - 📫 Reach me at: **[jcstr.dev](https://jcstr.dev)**
 
+## Projects 🚀
+
+🛠️ [Squeaky](https://github.com/squeaky) - an Arch Linux system cleanup tool.
+
 ## Community 🤝
 
 Founding member of:
