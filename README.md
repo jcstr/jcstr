@@ -17,7 +17,7 @@ My interests are high-scalable infrastructure, web development, Linux, and Artif
 
 ## Projects 🚀
 
-🛠️ [Squeaky](https://github.com/squeaky) - an Arch Linux system cleanup tool.
+🛠️ [Squeaky](https://github.com/jcstr/squeaky) - an Arch Linux system cleanup tool.
 
 ## Community 🤝
 
