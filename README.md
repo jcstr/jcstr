@@ -25,6 +25,7 @@ Founding member of:
 - [Linuxeros Zapopan](https://linktr.ee/lnxzpn) 🐧
 - [Tech Talks](https://github.com/techntalks) 💬
 - [Arch Linux Mexico](https://github.com/archlinuxmx) 🇲🇽
+- [Grupo de Desarrollo de Software Libre y Abierto del Tecnológico Superior de Jalisco](https://github.com/osstsj) 🤝
 
 ## Connect With Me 🌎
 
